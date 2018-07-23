@@ -1,0 +1,14 @@
+{
+	"text": {
+		"subject": "Přehled tržeb na pokladně č. 1",
+		"theatre": "Divadlo na Fidlovačce"
+	},
+	"send": {
+		"to": "cibulka.me@gmail.com",
+		"from": "cibulka.me@gmail.com",
+		"subject": "DOTU: Email test"
+	},
+	"build": {
+
+	}
+}

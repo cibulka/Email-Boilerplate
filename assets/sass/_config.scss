@@ -1,0 +1,14 @@
+$palette: (
+	black-haze: #EDEFEE,		// white
+	firefly: #081b27,			// black
+	merino: #F5EFE6,			// gray
+	rose-white: #FFFEFE			// white
+);
+
+$colors: (
+	black: map-get($palette, firefly),
+	gray: map-get($palette, merino),
+	white: map-get($palette, rose-white)
+);
+
+$em: 16px;

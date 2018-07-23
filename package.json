@@ -1,0 +1,29 @@
+{
+  "name": "dotu-invoice-html",
+  "version": "1.0.0",
+  "description": "Use these code examples as a guideline for formatting your HTML email to avoid some of the major styling pitfalls in HTML email design. You may want to create your own template based on these snippets or just pick and choose the ones that fix your specific rendering issue(s).",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanpowell/Email-Boilerplate.git"
+  },
+  "author": "Dotu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanpowell/Email-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/seanpowell/Email-Boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-email-builder": "3.0.0",
+    "gulp-html-autoprefixer": "0.0.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-minify-inline": "^1.0.0",
+    "gulp-rename": "^1.3.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-token-replace": "1.1.2"
+  }
+}
